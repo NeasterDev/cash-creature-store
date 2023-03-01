@@ -3,7 +3,7 @@ import aboutMeImg from "../assets/aboutme-img.jpg";
 export const About = () => {
 
     return ( 
-        <section className="flex flex-col justify-center items-center ">
+        <section id="about" className="flex flex-col justify-center items-center ">
             <div>
                 <h1 className="text-3xl font-bold">About me</h1>
             </div>
